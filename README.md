@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-Software Engineer at Bit Byte Technology. Working with react js as a Software engineer at [Bit Byte Technology.](https://bitbytetechnology.com/) Enjoy Coding and solving problems.
+I’m Mahmudul, a software engineer, creative coder, and self-proclaimed designer who specializes in front-end development. I enjoy coding and solving problems.
 
 Want to know more about me? [Check out my portfolio.](https://mhasanportfolio.netlify.app/)
 
