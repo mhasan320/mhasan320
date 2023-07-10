@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mahmudul Hasan's GitHub Banner](./assets/GitHubHeader.png)](https://mhasanportfolio.netlify.app/)
+[![Mahmudul Hasan's GitHub Banner](./hasan.png)](https://mhasanportfolio.netlify.app/)
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/mhasan320/mhasan320)](https://mhasanportfolio.netlify.app/)
