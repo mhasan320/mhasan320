@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan320&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
