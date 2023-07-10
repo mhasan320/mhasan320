@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-Software Engineer at Bit Byte Technology. Working with react js as Software engineer at Bit Byte Technology. Enjoy Coding and problem solver.
+Software Engineer at Bit Byte Technology. Working with react js as a Software engineer at [Bit Byte Technology.](https://bitbytetechnology.com/) Enjoy Coding and solving problems.
 
 Want to know more about me? [Check out my portfolio.](https://mhasanportfolio.netlify.app/)
 
